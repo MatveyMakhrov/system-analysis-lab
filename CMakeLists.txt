@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(task0 task0/task0.cpp)
+add_executable(task1 task1/task.cpp)
